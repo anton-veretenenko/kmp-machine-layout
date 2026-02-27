@@ -6,6 +6,7 @@
 - Compose Multiplatform
 - JSON
 - androidx-lifecycle, viewmodel, material3, kotlinx-coroutines, kotlinx-serialization
+- RSA шифрование
 
 ### Функции:
 
